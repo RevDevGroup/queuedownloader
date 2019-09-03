@@ -2,7 +2,7 @@
 
 ## Fix
 * problem with same name download (appent bytes)
-* **SOLVED** problem with cancel downloads (external process continue running)
+* [✔] problem with cancel downloads (external process continue running)
 
 ## Feactures
 * add support for progress information
