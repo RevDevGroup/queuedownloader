@@ -53,4 +53,4 @@ with DownloadQueueManager() as m:
 
 ## Authors: 
 > Jorge Alejandro Jimenez Luna jorgeajimenezl@nauta.cu  
-> Jimmy Angel Pérez Díazu lucia.77@nauta.cu
+> Jimmy Angel Pérez Díaz jimscope@protonmail.com
