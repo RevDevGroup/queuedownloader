@@ -54,3 +54,6 @@ with DownloadQueueManager() as m:
 ## Authors: 
 > Jorge Alejandro Jimenez Luna jorgeajimenezl@nauta.cu  
 > Jimmy Angel Pérez Díaz jimscope@protonmail.com
+
+## Support Us:
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V512ZVF)
